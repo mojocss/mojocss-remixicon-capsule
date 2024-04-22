@@ -1,0 +1,32 @@
+{
+  "name": "@mojocss/remixicon",
+  "version": "1.0.0",
+  "description": "This capsule allows you to easily integrate RemixIcon, a popular icon library, into your Mojo CSS projects.",
+  "main": "index.js",
+  "author": "Mojo CSS framework team. mojocss.com",
+  "license": "MIT",
+  "type": "module",
+  "unpkg": "dist/cdn.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mojocss/mojocss-remixicon-capsule.git"
+  },
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "webpack": "^5.90.1",
+    "webpack-cli": "^5.1.4"
+  },
+  "keywords": [
+    "mojocss",
+    "capsule",
+    "mojocss-capsule",
+    "remixicon",
+    "fonticon",
+    "font",
+    "icon",
+    "icons",
+    "front-end"
+  ]
+}
